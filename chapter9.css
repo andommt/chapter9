@@ -69,12 +69,41 @@ footer {
     padding: 10px;
     position: relative;
     background-color: #eee;
+    margin-bottom: 20px;
+    /* padding-bottom: 20px; */
+    /* border-bottom: 20px solid #ffffff; */
+  }
+  /* .step-box1 {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    background-color: #eee;
     padding-bottom: 20px;
     border-bottom: 20px solid #ffffff;
    }
+   .step-box2 {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    background-color: #eee;
+    padding-bottom: 20px;
+    border-bottom: 20px solid #ffffff;
+   }
+   .step-box3 {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    background-color: #eee;
+    padding-bottom: 20px;
+    border-bottom: 20px solid #ffffff;
+   } */
    main {
     width: 100%;
     display: block;
+    margin: 50px auto;
   }
   }
 }
